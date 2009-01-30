@@ -1,0 +1,33 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+  <head>
+    <title>Myapp {% block title %}{% endblock %}</title>
+    <style type="text/css">
+      input{
+      display: block;
+      } 
+    </style>
+    
+  </head>
+
+  <body>
+    {% block nav %}
+    <div id="navigation">
+      <a href="/">home</a>
+      {% if user.is_authenticated  %}
+      welcome, {{ user.username }}
+      (<a href="/logout">logout</a>)
+      {% else %}
+      <a href="/login/">login</a> | <a href="/register/">register</a>
+      {% endif %}
+    </div>    
+    {% endblock  %}
+
+
+    {% block content %}
+    <h2>Welcome to the application</h2>
+
+    {% endblock %}
+  </body>
+
+</html>

@@ -1,0 +1,1126 @@
+LinkChecker 4.9              Copyright (C) 2000-2008 Bastian Kleineidam
+LinkChecker comes with ABSOLUTELY NO WARRANTY!
+This is free software, and you are welcome to redistribute it
+under certain conditions. Look at the file `LICENSE' within this
+distribution.
+Get the newest version at http://linkchecker.sourceforge.net/
+Write comments and bugs to calvin@users.sourceforge.net
+
+Start checking at 2009-01-30 14:10:08+003
+
+URL        `javascript:;'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 90, col 8
+Real URL   javascript:;
+Warning    Javascript URL ignored.
+Result     Valid
+
+URL        `/media/imagepool/2008/05/27/furniture_fix.gif'
+Name       `mydeco'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 53, col 34
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/imagepool/2008/05/27/furniture_fix.gif
+D/L Time   0.001 seconds
+Check Time 5.527 seconds
+Result     Error: 404 Not Found
+
+URL        `/competitions/'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 267, col 9
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/competitions/
+Check Time 3.279 seconds
+Result     Error: 500 Internal Server Error
+
+URL        `/shopping/style/classic'
+Name       `Style on sale'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 281, col 78
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/style/classic/
+D/L Time   0.342 seconds
+Check Time 0.137 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/style/classic/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/style/classic'.
+Result     Valid
+
+URL        `/shopping/style/modern'
+Name       ` modern'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 281, col 291
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/style/modern/
+D/L Time   0.231 seconds
+Check Time 0.155 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/style/modern/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/style/modern'.
+Result     Valid
+
+URL        `/shopping/special-offers'
+Name       `sale now on'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 234, col 1
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/
+D/L Time   0.353 seconds
+Check Time 0.302 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers'.
+Result     Valid
+
+URL        `/shopping/style/romantic'
+Name       ` romantic'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 281, col 349
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/style/romantic/
+D/L Time   0.230 seconds
+Check Time 0.084 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/style/romantic/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/style/romantic'.
+Result     Valid
+
+URL        `/shopping/special-offers/browse/sofas'
+Name       `Sofa sale'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 265, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/sofas/
+D/L Time   0.397 seconds
+Check Time 0.178 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/browse/sofas/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers/browse/sofas'.
+Result     Valid
+
+URL        `/shopping/style/retro'
+Name       ` retro,'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 281, col 248
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/style/retro/
+D/L Time   0.214 seconds
+Check Time 0.101 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/style/retro/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/style/retro'.
+Result     Valid
+
+URL        `/shopping/browse/kitchen%20%26%20dining%20room/'
+Name       `Kitchen & dining room'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 313, col 7
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/shopping/browse/kitchen%20%26%20dining%20room/
+D/L Time   0.001 seconds
+Check Time 0.450 seconds
+Result     Error: 404 Not Found
+
+URL        `/shopping/browse/bedroom'
+Name       `Bedroom'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 305, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/browse/bedroom/
+D/L Time   0.212 seconds
+Check Time 0.072 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/browse/bedroom/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/browse/bedroom'.
+Result     Valid
+
+URL        `/shopping/design-boutique'
+Name       `shop the full range'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 284, col 426
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/design-boutique/
+D/L Time   0.197 seconds
+Check Time 0.095 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/design-boutique/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/design-boutique'.
+Result     Valid
+
+URL        `/shopping/browse/bathroom'
+Name       `Bathroom'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 303, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/browse/bathroom/
+D/L Time   0.675 seconds
+Check Time 0.106 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/browse/bathroom/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/browse/bathroom'.
+Result     Valid
+
+URL        `None'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 436, col 21
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/None
+D/L Time   0.011 seconds
+Check Time 0.358 seconds
+Result     Error: 404 Not Found
+
+URL        `/the-magazine'
+Name       `Craft turns cool'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 415, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/the-magazine/
+D/L Time   0.264 seconds
+Check Time 0.068 seconds
+Info       Redirected to
+           https://new_prod.atsimbala.users.dev.mydeco.com/the-
+           magazine/.
+Warning    Redirection to different URL type encountered; the
+           original URL was
+           u'http://new_prod.atsimbala.users.dev.mydeco.com/the-
+           magazine'.
+Result     Valid
+
+URL        `/people/mydeco magazine editor/blog/2009/jan/20/arm-yourself-against-cupids-arrows/'
+Name       `Editor's blog'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 481, col 7
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/people/mydeco%20magazine%20editor/blog/2009/jan/20/arm-yourself-against-cupids-arrows/
+D/L Time   0.006 seconds
+Check Time 0.345 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /people/mydeco%20magazine%20editor/blog/2009/jan/20
+           /arm-yourself-against-cupids-arrows/.
+Result     Error: 404 Not Found
+
+URL        `/people/Hannah%20Coleman/blog/'
+Name       `Hannah's blog'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 489, col 7
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/people/Hannah%20Coleman/blog/
+D/L Time   0.059 seconds
+Check Time 0.229 seconds
+Result     Error: 404 Not Found
+
+URL        `/competitions'
+Name       `Win £500!'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 524, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/competitions/
+D/L Time   1.271 seconds
+Check Time 0.145 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/competitions/.
+Warning    Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/competitions'.
+Result     Valid
+
+URL        `/buy-the-look/ajax_send2friend/'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 730, col 3
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/buy-the-look/ajax_send2friend/
+D/L Time   0.000 seconds
+Check Time 0.308 seconds
+Result     Error: 405 Method Not Allowed
+
+URL        `/media/img/button-default-off.png'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/media/1/style/merged_hp.css, line 1, col 3058
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/img/button-default-off.png
+Check Time 23.962 seconds
+Result     Error: error: (54, 'Connection reset by peer')
+
+URL        `/media/img/button-default-on.png'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/media/1/style/merged_hp.css, line 1, col 3162
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/img/button-default-on.png
+Check Time 23.962 seconds
+Result     Error: error: (54, 'Connection reset by peer')
+
+URL        `/media/img/button-close.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/media/1/style/merged_hp.css, line 1, col 3310
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/img/button-close.gif
+Check Time 23.963 seconds
+Result     Error: error: (54, 'Connection reset by peer')
+
+URL        `/media/img/button-left.png'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/media/1/style/merged_hp.css, line 1, col 3434
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/img/button-left.png
+Check Time 23.909 seconds
+Result     Error: error: (54, 'Connection reset by peer')
+
+URL        `/media/img/base/button-submit-question.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/media/1/style/merged_hp.css, line 1, col 25101
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/img/base/button-submit-question.gif
+D/L Time   0.003 seconds
+Check Time 0.369 seconds
+Result     Error: 404 Not Found
+
+URL        `/media/img/base/button-submit-answer.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/media/1/style/merged_hp.css, line 1, col 25236
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/img/base/button-submit-answer.gif
+D/L Time   0.002 seconds
+Check Time 0.322 seconds
+Result     Error: 404 Not Found
+
+URL        `/media//media/img/defaults/no_avatar.gif'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/people/username/products/, line 9, col 1
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/media/media/img/defaults/no_avatar.gif
+D/L Time   0.000 seconds
+Check Time 0.733 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /media/media/img/defaults/no_avatar.gif.
+Result     Error: 404 Not Found
+
+URL        `/media/imagepool/2008/05/27/furniture_fix.gif'
+Name       `mydeco'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/people/username/products/, line 59, col 34
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/media/imagepool/2008/05/27/furniture_fix.gif
+D/L Time   0.001 seconds
+Check Time 0.911 seconds
+Result     Error: 404 Not Found
+
+URL        `/competitions/'
+Name       `Competitions'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/people/username/products/, line 132, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/competitions/
+Check Time 2.010 seconds
+Result     Error: 500 Internal Server Error
+
+URL        `/people/block/'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/people/username/products/, line 450, col 1
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/block/
+D/L Time   0.010 seconds
+Check Time 0.748 seconds
+Result     Error: 404 Not Found
+
+URL        `/buy-the-look/ajax_send2friend/'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/people/username/products/, line 599, col 3
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/buy-the-look/ajax_send2friend/
+D/L Time   0.000 seconds
+Check Time 0.669 seconds
+Result     Error: 405 Method Not Allowed
+
+URL        `http://switch.atdmt.com/iaction/icumyd_CommunityRegister_1'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/login/?next=, line 51, col 21
+Real URL   http://switch.atdmt.com/iaction/icumyd_CommunityRegister_1
+Check Time 0.335 seconds
+Warning    Access denied by robots.txt, checked only syntax.
+Result     Valid: syntax OK
+
+URL        `/account/register-quick/?next=/people/username/inbox/'
+Name       `
+    Register
+  '
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/account/login-quick/?next=%2Fpeople%2Fusername%2Finbox%2F, line 219, col 3
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/account/register-quick/?next=%2Fpeople%2Fusername%2Finbox%2F
+D/L Time   0.280 seconds
+Check Time 0.408 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /account/register-
+           quick/?next=%2Fpeople%2Fusername%2Finbox%2F.
+Result     Valid: 200 OK
+
+URL        `/account/register-quick/?next=/people/username/alerts/'
+Name       `
+    Register
+  '
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/account/login-quick/?next=%2Fpeople%2Fusername%2Falerts%2F, line 219, col 3
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/account/register-quick/?next=%2Fpeople%2Fusername%2Falerts%2F
+D/L Time   0.301 seconds
+Check Time 0.416 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /account/register-
+           quick/?next=%2Fpeople%2Fusername%2Falerts%2F.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=458&website=houseoffraser.co.uk&url=http%3A%2F%2Fwww.houseoffraser.co.uk%2Fhouse%2Baccessory%2F05%2Cdefault%2Csc.html%3Fq%3Dbadge_xmas_offer%26amp%3Bfix%26amp%3Bspcl'
+Name       `È 70% off at House of Fraser'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/, line 304, col 5
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=458&website=houseoffraser.co.uk&url=http:%2F%2Fwww.houseoffraser.co.uk%2Fhouse%2Baccessory%2F05,default,sc.html%3Fq%3Dbadge_xmas_offer%26amp;fix%26amp;spcl
+D/L Time   0.001 seconds
+Check Time 0.736 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=458&website=houseoffraser.co.uk&url=http:%2F%2F
+           www.houseoffraser.co.uk%2Fhouse%2Baccessory%2F05,defau
+           lt,sc.html%3Fq%3Dbadge_xmas_offer%26amp;fix%26amp;spcl
+           .
+Result     Valid: 200 OK
+
+URL        `mailto:youtellus@mydeco.com'
+Name       `Feedback'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com, line 606, col 17
+Real URL   mailto:youtellus@mydeco.com
+Check Time 117.583 seconds
+Warning    MX mail host mx1.emailsrvr.com did not accept
+           connections: Connection unexpectedly closed.
+           MX mail host mx2.emailsrvr.com did not accept
+           connections: Connection unexpectedly closed.
+Result     Valid: Could not connect, but syntax is correct
+
+URL        `/media/default_image/flowers.gif'
+Name       `/media/default_image/flowers.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/register/, line 512, col 19
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/default_image/flowers.gif
+D/L Time   0.001 seconds
+Check Time 0.360 seconds
+Result     Error: 404 Not Found
+
+URL        `/media/default_image/ice_cream.gif'
+Name       `/media/default_image/ice_cream.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/register/, line 516, col 19
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/default_image/ice_cream.gif
+D/L Time   0.000 seconds
+Check Time 0.262 seconds
+Result     Error: 404 Not Found
+
+URL        `/media/default_image/pasta.gif'
+Name       `/media/default_image/pasta.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/register/, line 520, col 19
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/default_image/pasta.gif
+D/L Time   0.000 seconds
+Check Time 0.272 seconds
+Result     Error: 404 Not Found
+
+URL        `/media/default_image/recoreds.gif'
+Name       `/media/default_image/recoreds.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/register/, line 524, col 19
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/default_image/recoreds.gif
+D/L Time   0.002 seconds
+Check Time 0.388 seconds
+Result     Error: 404 Not Found
+
+URL        `/media/default_image/sofa.gif'
+Name       `/media/default_image/sofa.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/register/, line 528, col 19
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/default_image/sofa.gif
+D/L Time   0.010 seconds
+Check Time 0.450 seconds
+Result     Error: 404 Not Found
+
+URL        `/media/default_image/tes.gif'
+Name       `/media/default_image/tes.gif'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/account/register/, line 532, col 19
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/media/default_image/tes.gif
+D/L Time   0.003 seconds
+Check Time 0.454 seconds
+Result     Error: 404 Not Found
+
+URL        `/tv'
+Name       `Best of TV'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/the-magazine/, line 291, col 23
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/tv/
+D/L Time   0.292 seconds
+Check Time 0.073 seconds
+Info       Redirected to
+           https://new_prod.atsimbala.users.dev.mydeco.com/tv/.
+Warning    Redirection to different URL type encountered; the
+           original URL was
+           u'http://new_prod.atsimbala.users.dev.mydeco.com/tv'.
+Result     Valid
+
+URL        `/account/login/?next=/the-magazine/'
+Name       `
+  Shortlist'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/the-magazine/, line 347, col 8
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/account/login/?next=%2Fthe-magazine%2F
+D/L Time   0.229 seconds
+Check Time 0.236 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /account/login/?next=%2Fthe-magazine%2F.
+Result     Valid: 200 OK
+
+URL        `/product/knitting-with-wire-knitting-technique-series/ec800c78ccafaad71953a4e0c745d11b22e7f814/'
+Name       `Knitting with Wire (Knitting Technique Series)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/the-magazine/, line 650, col 5
+Real URL   http://new_prod.atsimbala.users.dev.mydeco.com/product/knitting-with-wire-knitting-technique-series/ec800c78ccafaad71953a4e0c745d11b22e7f814/
+D/L Time   0.002 seconds
+Check Time 1.849 seconds
+Result     Error: 404 Not Found
+
+URL        `http://mydeco.com/buy-the-look/2287/'
+Name       `here'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/buy-the-look/, line 618, col 28
+Real URL   http://mydeco.com/buy-the-look/2287/
+D/L Time   0.171 seconds
+Check Time 6.735 seconds
+Result     Error: 404 Not Found
+
+URL        `clsid:d27cdb6e-ae6d-11cf-96b8-444553540000'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/the-magazine/, line 832, col 1
+Base       http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version%3D8%2C0%2C0%2C0
+Real URL   clsid:d27cdb6e-ae6d-11cf-96b8-444553540000
+Warning    Clsid URL ignored.
+Result     Valid
+
+URL        `http://mydeco.com/daylife/rankings/rankings.swf?scriptpath=http://mydeco.com/daylife/'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/the-magazine/, line 837, col 5
+Real URL   http://mydeco.com/daylife/rankings/rankings.swf?scriptpath=http:%2F%2Fmydeco.com%2Fdaylife%2F
+Check Time 0.058 seconds
+Info       Last modified Mon, 17 Mar 2008 15:09:49 GMT.
+Warning    Base URL is not properly normed. Normed URL is http://
+           mydeco.com/daylife/rankings/rankings.swf?scriptpath=ht
+           tp:%2F%2Fmydeco.com%2Fdaylife%2F.
+Result     Valid: 200 OK
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Jenny%20Mc/'
+Name       `Jenny Mc'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 187, col 24
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Jenny%20Mc/
+D/L Time   0.066 seconds
+Check Time 0.780 seconds
+Result     Error: 404 Not Found
+
+URL        `/shopping/special-offers/browse/furniture & storage/sofas/'
+Name       `Super sofa sale!'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/buy-the-look/, line 798, col 18
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/furniture%20%26%20storage/sofas/
+D/L Time   0.267 seconds
+Check Time 5.956 seconds
+Info       Last modified Fri, 30 Jan 2009 12:15:32 GMT.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-
+           offers/browse/furniture%20%26%20storage/sofas/.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Regulations%20%26%20Getting%20Started'
+Name       `Regulations & Getting Started'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 385, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Regulations+%26+Getting+Started
+D/L Time   0.224 seconds
+Check Time 0.707 seconds
+Warning    Base URL is not properly normed. Normed URL is /knowle
+           dge/categories/?filter=topic,Regulations+%26+Getting+S
+           tarted.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Plumbing%20%26%20Electrical'
+Name       `Plumbing & Electrical'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 389, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Plumbing+%26+Electrical
+D/L Time   0.273 seconds
+Check Time 0.795 seconds
+Warning    Base URL is not properly normed. Normed URL is /knowle
+           dge/categories/?filter=topic,Plumbing+%26+Electrical.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Painting%20%26%20Decorating'
+Name       `Painting & Decorating'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 387, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Painting+%26+Decorating
+D/L Time   0.240 seconds
+Check Time 0.760 seconds
+Warning    Base URL is not properly normed. Normed URL is /knowle
+           dge/categories/?filter=topic,Painting+%26+Decorating.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Gardens%20%26%20Outdoors'
+Name       `Gardens & Outdoors'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 391, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Gardens+%26+Outdoors
+D/L Time   0.200 seconds
+Check Time 0.542 seconds
+Warning    Base URL is not properly normed. Normed URL is /knowle
+           dge/categories/?filter=topic,Gardens+%26+Outdoors.
+Result     Valid: 200 OK
+
+URL        `http://media.dev.mydeco.com/media/data/cms/image/2008/06/25/mybuilder_logo__.gif'
+Name       `My Builder'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 444, col 72
+Real URL   http://media.dev.mydeco.com/media/data/cms/image/2008/06/25/mybuilder_logo__.gif
+Check Time 0.093 seconds
+Result     Error: error: (54, 'Connection reset by peer')
+
+URL        `http://www.mybuilder.com/'
+Name       `My Builder'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 444, col 6
+Real URL   http://www.mybuilder.com/
+Check Time 0.175 seconds
+Result     Error: error: (54, 'Connection reset by peer')
+
+URL        `/knowledge/categories/?filter=topic,Space%20Planning'
+Name       `Space Planning'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 395, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Space+Planning
+D/L Time   0.201 seconds
+Check Time 1.621 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /knowledge/categories/?filter=topic,Space+Planning.
+Result     Valid: 200 OK
+
+URL        `http://www.globrix.com/'
+Name       `Globix'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 484, col 6
+Real URL   http://www.globrix.com/
+Check Time 0.161 seconds
+Warning    Access denied by robots.txt, checked only syntax.
+Result     Valid: syntax OK
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/score/score/ajax/'
+Name       `Not useful'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 565, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/score/score/ajax/
+D/L Time   0.000 seconds
+Check Time 0.652 seconds
+Result     Error: 405 Method Not Allowed
+
+URL        `/knowledge/categories/?filter=topic,Customer%20Support'
+Name       `Customer Support'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 401, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Customer+Support
+D/L Time   0.204 seconds
+Check Time 0.690 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /knowledge/categories/?filter=topic,Customer+Support.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Furniture%20%26%20Accessories'
+Name       `Furniture & Accessories'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 393, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Furniture+%26+Accessories
+D/L Time   0.356 seconds
+Check Time 0.483 seconds
+Warning    Base URL is not properly normed. Normed URL is /knowle
+           dge/categories/?filter=topic,Furniture+%26+Accessories
+           .
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Colour%20%26%20Lighting'
+Name       `Colour & Lighting'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 397, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Colour+%26+Lighting
+D/L Time   0.238 seconds
+Check Time 0.560 seconds
+Warning    Base URL is not properly normed. Normed URL is /knowle
+           dge/categories/?filter=topic,Colour+%26+Lighting.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,General%20Design'
+Name       `General Design'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 399, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,General+Design
+D/L Time   0.216 seconds
+Check Time 0.645 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /knowledge/categories/?filter=topic,General+Design.
+Result     Valid: 200 OK
+
+URL        `/knowledge/categories/?filter=topic,Plan%20my%20Room'
+Name       `Plan my Room'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/, line 405, col 32
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/knowledge/categories/?filter=topic,Plan+my+Room
+D/L Time   0.200 seconds
+Check Time 0.690 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /knowledge/categories/?filter=topic,Plan+my+Room.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=houseoffraser.co.uk&url=http%3A%2F%2Fwww.houseoffraser.co.uk'
+Name       `È Grab a bargain at House of Fraser with 70% off'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 254, col 5
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=houseoffraser.co.uk&url=http:%2F%2Fwww.houseoffraser.co.uk
+D/L Time   0.001 seconds
+Check Time 1.657 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=houseoffraser.co.uk&url=http:%2F%2F
+           www.houseoffraser.co.uk.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=marksandspencer.com&url=http%3A%2F%2Fwww.marksandspencer.com%2FHome-Furniture%2Fb%2F43670030%3FmnSBrand%3Dcore'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 313, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=marksandspencer.com&url=http:%2F%2Fwww.marksandspencer.com%2FHome-Furniture%2Fb%2F43670030%3FmnSBrand%3Dcore
+D/L Time   0.007 seconds
+Check Time 0.558 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=marksandspencer.com&url=http:%2F%2F
+           www.marksandspencer.com%2FHome-
+           Furniture%2Fb%2F43670030%3FmnSBrand%3Dcore.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=grahamandgreen.co.uk&url=http%3A%2F%2Fwww.grahamandgreen.co.uk'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 327, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=grahamandgreen.co.uk&url=http:%2F%2Fwww.grahamandgreen.co.uk
+D/L Time   0.001 seconds
+Check Time 0.561 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=grahamandgreen.co.uk&url=http:%2F%2
+           Fwww.grahamandgreen.co.uk.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=johnlewis.com&url=http%3A%2F%2Fwww.johnlewis.com%2FClearance%2FArea.aspx'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 352, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=johnlewis.com&url=http:%2F%2Fwww.johnlewis.com%2FClearance%2FArea.aspx
+D/L Time   0.001 seconds
+Check Time 0.556 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=johnlewis.com&url=http:%2F%2Fwww.jo
+           hnlewis.com%2FClearance%2FArea.aspx.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=habitat.co.uk&url=http%3A%2F%2Fwww.habitat.co.uk%2Fpws%2FHome.ice'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 341, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=habitat.co.uk&url=http:%2F%2Fwww.habitat.co.uk%2Fpws%2FHome.ice
+D/L Time   0.002 seconds
+Check Time 0.607 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=habitat.co.uk&url=http:%2F%2Fwww.ha
+           bitat.co.uk%2Fpws%2FHome.ice.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=amara.co.uk&url=http%3A%2F%2Fwww.amara.co.uk%2Fspecial%2Fsale'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 388, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=amara.co.uk&url=http:%2F%2Fwww.amara.co.uk%2Fspecial%2Fsale
+D/L Time   0.001 seconds
+Check Time 0.682 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=amara.co.uk&url=http:%2F%2Fwww.amar
+           a.co.uk%2Fspecial%2Fsale.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=cathkidston.co.uk&url=http%3A%2F%2Fwww.cathkidston.co.uk'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 399, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=cathkidston.co.uk&url=http:%2F%2Fwww.cathkidston.co.uk
+D/L Time   0.001 seconds
+Check Time 1.339 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=cathkidston.co.uk&url=http:%2F%2Fww
+           w.cathkidston.co.uk.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=next.co.uk&url=http%3A%2F%2Fwww.next.co.uk%2Fsale'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 410, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=next.co.uk&url=http:%2F%2Fwww.next.co.uk%2Fsale
+D/L Time   0.001 seconds
+Check Time 0.478 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=next.co.uk&url=http:%2F%2Fwww.next.
+           co.uk%2Fsale.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=awhiteroom.com&url=http%3A%2F%2Fwww.awhiteroom.com'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 421, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=awhiteroom.com&url=http:%2F%2Fwww.awhiteroom.com
+D/L Time   0.000 seconds
+Check Time 0.434 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=awhiteroom.com&url=http:%2F%2Fwww.a
+           whiteroom.com.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=graham+and+green&prefdb=product=1&count=60'
+Name       `Graham & Green,'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 272, col 298
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=graham+and+green&prefdb=product%3D1&count=60
+D/L Time   0.571 seconds
+Check Time 3.022 seconds
+Info       Last modified Fri, 30 Jan 2009 12:16:10 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=graham+and+green&prefdb=product%3D1&c
+           ount=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=david+linley&prefdb=product=1&count=60'
+Name       ` David Linley'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 272, col 524
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=david+linley&prefdb=product%3D1&count=60
+D/L Time   0.614 seconds
+Check Time 5.671 seconds
+Info       Last modified Fri, 30 Jan 2009 12:16:15 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=david+linley&prefdb=product%3D1&count
+           =60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=dibor&prefdb=product=1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 363, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=dibor&prefdb=product%3D1&count=60
+D/L Time   0.574 seconds
+Check Time 11.674 seconds
+Info       Last modified Fri, 30 Jan 2009 12:16:26 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=dibor&prefdb=product%3D1&count=60.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=okadirect.com&url=http%3A%2F%2Fwww.okadirect.com'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 547, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=okadirect.com&url=http:%2F%2Fwww.okadirect.com
+D/L Time   0.001 seconds
+Check Time 0.527 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=okadirect.com&url=http:%2F%2Fwww.ok
+           adirect.com.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=furniture+village&prefdb=product =1&count=60'
+Name       `Furniture Village'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 278, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=furniture+village&prefdb=product+%3D1&count=60
+D/L Time   0.536 seconds
+Check Time 17.631 seconds
+Info       Last modified Fri, 30 Jan 2009 12:16:29 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=furniture+village&prefdb=product+%3D1
+           &count=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=tesco&prefdb=product=1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 377, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=tesco&prefdb=product%3D1&count=60
+D/L Time   0.503 seconds
+Check Time 18.779 seconds
+Info       Last modified Fri, 30 Jan 2009 12:16:33 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=tesco&prefdb=product%3D1&count=60.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=thewhitecompany.com&url=http%3A%2F%2Fthewhitecompany.co.uk'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 622, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=thewhitecompany.com&url=http:%2F%2Fthewhitecompany.co.uk
+D/L Time   0.001 seconds
+Check Time 1.019 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=thewhitecompany.com&url=http:%2F%2F
+           thewhitecompany.co.uk.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=multiyork.co.uk&url=http%3A%2F%2Fwww.multiyork.co.uk'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 633, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=multiyork.co.uk&url=http:%2F%2Fwww.multiyork.co.uk
+D/L Time   0.003 seconds
+Check Time 0.607 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=multiyork.co.uk&url=http:%2F%2Fwww.
+           multiyork.co.uk.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=homebase.co.uk&url=http%3A%2F%2Fwww.homebase.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FStoreCatalogDisplay%3FlangId%3D-1%26amp%3BstoreId%3D20001'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 657, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=homebase.co.uk&url=http:%2F%2Fwww.homebase.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FStoreCatalogDisplay%3FlangId%3D-1%26amp;storeId%3D20001
+D/L Time   0.001 seconds
+Check Time 0.672 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=homebase.co.uk&url=http:%2F%2Fwww.h
+           omebase.co.uk%2Fwebapp%2Fwcs%2Fstores%2Fservlet%2FStor
+           eCatalogDisplay%3FlangId%3D-1%26amp;storeId%3D20001.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=notonthehighstreet.com&url=http%3A%2F%2Fwww.notonthehighstreet.com%2Fshop%2Fsale'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 668, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=notonthehighstreet.com&url=http:%2F%2Fwww.notonthehighstreet.com%2Fshop%2Fsale
+D/L Time   0.011 seconds
+Check Time 0.738 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=notonthehighstreet.com&url=http:%2F
+           %2Fwww.notonthehighstreet.com%2Fshop%2Fsale.
+Result     Valid: 200 OK
+
+URL        `/aff/?article=636&website=portmeirion.co.uk&url=http%3A%2F%2Fwww.portmeirion.co.uk'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 718, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/aff/?article=636&website=portmeirion.co.uk&url=http:%2F%2Fwww.portmeirion.co.uk
+D/L Time   0.001 seconds
+Check Time 0.779 seconds
+Warning    Base URL is not properly normed. Normed URL is /aff/?a
+           rticle=636&website=portmeirion.co.uk&url=http:%2F%2Fww
+           w.portmeirion.co.uk.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=wooden+plantation+shutters&prefdb=product=1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 704, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=wooden+plantation+shutters&prefdb=product%3D1&count=60
+D/L Time   0.318 seconds
+Check Time 2.472 seconds
+Info       Last modified Fri, 30 Jan 2009 12:17:14 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=wooden+plantation+shutters&prefdb=pro
+           duct%3D1&count=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=feather+and+black &prefdb=product&filter_discounted=1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 582, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=feather+and+black+&prefdb=product&filter_discounted=1&count=60
+D/L Time   0.858 seconds
+Check Time 7.590 seconds
+Info       Last modified Fri, 30 Jan 2009 12:17:09 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=feather+and+black+&prefdb=product&fil
+           ter_discounted=1&count=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=the+real+art+company&prefdb=product =1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 644, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=the+real+art+company&prefdb=product+%3D1&count=60
+D/L Time   0.674 seconds
+Check Time 5.251 seconds
+Info       Last modified Fri, 30 Jan 2009 12:17:12 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=the+real+art+company&prefdb=product+%
+           3D1&count=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query= oak+furniture+land&prefdb=product&filter_discounted=1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 679, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=+oak+furniture+land&prefdb=product&filter_discounted=1&count=60
+D/L Time   0.639 seconds
+Check Time 20.264 seconds
+Info       Last modified Fri, 30 Jan 2009 12:17:30 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=+oak+furniture+land&prefdb=product&fi
+           lter_discounted=1&count=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=leigh+harmer&prefdb=product =1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 609, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=leigh+harmer&prefdb=product+%3D1&count=60
+D/L Time   0.652 seconds
+Check Time 9.812 seconds
+Info       Last modified Fri, 30 Jan 2009 12:17:12 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=leigh+harmer&prefdb=product+%3D1&coun
+           t=60.
+Result     Valid: 200 OK
+
+URL        `/search/?cms=true&query=david+linley&prefdb=product =1&count=60'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/, line 751, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/search/?cms=true&query=david+linley&prefdb=product+%3D1&count=60
+D/L Time   0.567 seconds
+Check Time 9.673 seconds
+Info       Last modified Fri, 30 Jan 2009 12:17:26 GMT.
+Warning    Base URL is not properly normed. Normed URL is /search
+           /?cms=true&query=david+linley&prefdb=product+%3D1&coun
+           t=60.
+Result     Valid: 200 OK
+
+URL        `/shopping/browse/kitchen%20%26%20dining%20room/'
+Name       `Kitchen & dining room'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/, line 313, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/browse/kitchen%20%26%20dining%20room/
+D/L Time   0.002 seconds
+Check Time 1.846 seconds
+Result     Error: 404 Not Found
+
+URL        `None'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/, line 436, col 21
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/None
+D/L Time   0.063 seconds
+Check Time 0.920 seconds
+Result     Error: 404 Not Found
+
+URL        `/people/mydeco magazine editor/blog/2009/jan/20/arm-yourself-against-cupids-arrows/'
+Name       `Editor's blog'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/, line 481, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/mydeco%20magazine%20editor/blog/2009/jan/20/arm-yourself-against-cupids-arrows/
+D/L Time   0.069 seconds
+Check Time 0.821 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /people/mydeco%20magazine%20editor/blog/2009/jan/20
+           /arm-yourself-against-cupids-arrows/.
+Result     Error: 404 Not Found
+
+URL        `/people/Hannah%20Coleman/blog/'
+Name       `Hannah's blog'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/, line 489, col 7
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Hannah%20Coleman/blog/
+D/L Time   0.064 seconds
+Check Time 0.693 seconds
+Result     Error: 404 Not Found
+
+URL        `/people/Kelly%20Hoppen/about-me/'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 229, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Kelly%20Hoppen/about-me/
+D/L Time   0.063 seconds
+Check Time 0.818 seconds
+Result     Error: 404 Not Found
+
+URL        `/people/THis%20Designs%20Ltd/about-me/'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 246, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/THis%20Designs%20Ltd/about-me/
+D/L Time   0.068 seconds
+Check Time 0.872 seconds
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Celia%20Birtwell/'
+Name       `Celia Birtwell'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 289, col 2
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Celia%20Birtwell/
+D/L Time   0.083 seconds
+Check Time 0.996 seconds
+Result     Error: 404 Not Found
+
+URL        `/people/Celia%20Birtwell/tips/'
+Name       `Celia Birtwell'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 293, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Celia%20Birtwell/tips/
+D/L Time   0.094 seconds
+Check Time 0.784 seconds
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Celia%20Birtwell/tip/symmetry-74/'
+Name       `Symmetry'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 294, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Celia%20Birtwell/tip/symmetry-74/
+D/L Time   0.069 seconds
+Check Time 0.837 seconds
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Sofie%20Moulin/blog/2008/mar/28/hello-mr-cushion/'
+Name       `"Hello Mr Cushion"'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 341, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Sofie%20Moulin/blog/2008/mar/28/hello-mr-cushion/
+D/L Time   0.066 seconds
+Check Time 0.847 seconds
+Result     Error: 404 Not Found
+
+URL        `/people/Sofie%20Moulin/blog/'
+Name       `Sofie Moulin'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 340, col 9
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Sofie%20Moulin/blog/
+D/L Time   0.062 seconds
+Check Time 0.983 seconds
+Result     Error: 404 Not Found
+
+URL        `/groups/Share Your Videos/'
+Name       `Share Your Videos'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 311, col 2
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/groups/Share%20Your%20Videos/
+D/L Time   0.000 seconds
+Check Time 1.027 seconds
+Warning    Base URL is not properly normed. Normed URL is
+           /groups/Share%20Your%20Videos/.
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Sofie%20Moulin/'
+Name       `Sofie Moulin'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 336, col 2
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Sofie%20Moulin/
+D/L Time   0.067 seconds
+Check Time 1.009 seconds
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/mydeco%20magazine%20editor/'
+Name       `mydeco magazine editor'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 412, col 17
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/mydeco%20magazine%20editor/
+D/L Time   0.065 seconds
+Check Time 0.800 seconds
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/CHRISTINE%20CAMERON%20WILLIAMS/'
+Name       `CHRISTINE CAMERON WILLIAMS'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 430, col 17
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/CHRISTINE%20CAMERON%20WILLIAMS/
+D/L Time   0.081 seconds
+Check Time 0.792 seconds
+Result     Error: 404 Not Found
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Sian%20Astley/'
+Name       `Sian Astley'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 448, col 17
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Sian%20Astley/
+D/L Time   0.073 seconds
+Check Time 0.787 seconds
+Result     Error: 404 Not Found
+
+URL        `/shopping/special-offers/browse/bedding%20&%20bed%20linen/bedding%20sets/'
+Name       `Bedding sets (32)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/bedding%20%26%20bed%20linen/, line 199, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/search/bedding%20%26%20bed%20linen/bedding%20sets/
+D/L Time   0.703 seconds
+Check Time 0.195 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/search/bedding%20&%20b
+           ed%20linen/bedding%20sets/.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-offers/browse/bedding%20%26%20bed%20
+           linen/bedding%20sets/.
+           Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers/browse/bedding%20%
+           26%20bed%20linen/bedding%20sets/'.
+Result     Valid
+
+URL        `https://new_prod.atsimbala.users.dev.mydeco.com/people/Hannah%20Coleman/'
+Name       `Hannah Coleman'
+Parent URL https://new_prod.atsimbala.users.dev.mydeco.com/community/, line 520, col 17
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/people/Hannah%20Coleman/
+D/L Time   0.071 seconds
+Check Time 0.764 seconds
+Result     Error: 404 Not Found
+
+URL        `/shopping/special-offers/browse/bedding%20&%20bed%20linen/boudoir%20cushions/'
+Name       `Boudoir cushions (6)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/bedding%20%26%20bed%20linen/, line 205, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/search/bedding%20%26%20bed%20linen/boudoir%20cushions/
+D/L Time   0.270 seconds
+Check Time 0.321 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/search/bedding%20&%20b
+           ed%20linen/boudoir%20cushions/.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-offers/browse/bedding%20%26%20bed%20
+           linen/boudoir%20cushions/.
+           Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers/browse/bedding%20%
+           26%20bed%20linen/boudoir%20cushions/'.
+Result     Valid
+
+URL        `/shopping/special-offers/browse/bedding%20&%20bed%20linen/bedspreads%20%26%20quilts/'
+Name       `Bedspreads & quilts (153)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/bedding%20%26%20bed%20linen/, line 201, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/search/bedding%20%26%20bed%20linen/bedspreads%20%26%20quilts/
+D/L Time   0.344 seconds
+Check Time 0.254 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/search/bedding%20&%20b
+           ed%20linen/bedspreads%20&%20quilts/.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-offers/browse/bedding%20%26%20bed%20
+           linen/bedspreads%20%26%20quilts/.
+           Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers/browse/bedding%20%
+           26%20bed%20linen/bedspreads%20%26%20quilts/'.
+Result     Valid
+
+URL        `/shopping/special-offers/browse/bedding%20&%20bed%20linen/electric%20blankets/'
+Name       `Electric blankets (1)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/bedding%20%26%20bed%20linen/, line 211, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/search/bedding%20%26%20bed%20linen/electric%20blankets/
+D/L Time   0.199 seconds
+Check Time 0.169 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/search/bedding%20&%20b
+           ed%20linen/electric%20blankets/.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-offers/browse/bedding%20%26%20bed%20
+           linen/electric%20blankets/.
+           Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers/browse/bedding%20%
+           26%20bed%20linen/electric%20blankets/'.
+Result     Valid
+
+URL        `/shopping/special-offers/browse/bedding%20&%20bed%20linen/blankets/'
+Name       `Blankets (33)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/bedding%20%26%20bed%20linen/, line 203, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/search/bedding%20%26%20bed%20linen/blankets/
+D/L Time   0.402 seconds
+Check Time 5.339 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-
+           offers/search/bedding%20&%20bed%20linen/blankets/.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-
+           offers/browse/bedding%20%26%20bed%20linen/blankets/.
+           Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-
+           offers/browse/bedding%20%26%20bed%20linen/blankets/'.
+Result     Valid
+
+URL        `/shopping/special-offers/browse/bedding%20&%20bed%20linen/pillow%20protectors/'
+Name       `Pillow protectors (7)'
+Parent URL http://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/browse/bedding%20%26%20bed%20linen/, line 221, col 13
+Real URL   https://new_prod.atsimbala.users.dev.mydeco.com/shopping/special-offers/search/bedding%20%26%20bed%20linen/pillow%20protectors/
+D/L Time   0.265 seconds
+Check Time 0.153 seconds
+Info       Redirected to https://new_prod.atsimbala.users.dev.myd
+           eco.com/shopping/special-offers/search/bedding%20&%20b
+           ed%20linen/pillow%20protectors/.
+Warning    Base URL is not properly normed. Normed URL is
+           /shopping/special-offers/browse/bedding%20%26%20bed%20
+           linen/pillow%20protectors/.
+           Redirection to different URL type encountered; the
+           original URL was u'http://new_prod.atsimbala.users.dev
+           .mydeco.com/shopping/special-offers/browse/bedding%20%
+           26%20bed%20linen/pillow%20protectors/'.
+Result     Valid
