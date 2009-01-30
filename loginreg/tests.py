@@ -18,6 +18,7 @@ from django.core import mail
 from django.test.utils import setup_test_environment
 from django.contrib.auth.models import User
 from django.db import connection
+from loginreg.models import UserProfile
 
 
 def setup():
@@ -37,9 +38,8 @@ def test_loginsucess():
     """
     Test case, checking that the login function works correctly,
     It sends, a user data which was predefined in setup method, to the
-    login handler, and gets response. If it finds that the reposnse
-    body is ok, and doesn't contain any error, the test PASSED
-    INCORRECT: STATUS is 200 or 302 in any case.
+    login handler, and gets response. It uses the status_code
+    Which should be 302
     """
     c = Client()
     response = c.post('/login/', {'username': 'oleg', 'password': 'oleg'})
@@ -67,7 +67,7 @@ def test_incorrect_passw():
     c = Client()
     response = c.post('/login/', {'username': 'notoleg',
                                   'password': 'incorrectPassword'})
-    assert response.content.find("Username or password is incorrect") != -1,\
+    assert response.content.find("Username or password is incorrect") != -1, \
         "Error code wasn't returned"
 
 
@@ -92,12 +92,12 @@ def test_correct_password_was_resent():
     c = Client()
     response = c.post('/resend/', {'email': 'oltarasenko@gmail.com'})
     assert response.status_code == 302, "No message was sent"
-    assert mail.outbox[0].subject.find("Password reset") != -1,\
+    assert mail.outbox[0].subject.find("Password reset") != -1, \
         "Message wasn't delivered"
     reset_url = url.search(mail.outbox[0].body).group()
-    reset_form = c.post('', {'new_password1': 'olegtame',\
+    reset_form = c.post('', {'new_password1': 'olegtame', \
                                  'new_password2': 'olegtame'})
-    assert reset_form.content.find("Password reset complete"),\
+    assert reset_form.content.find("Password reset complete"), \
         "It was impossible to restore passwor"
 
 
@@ -108,10 +108,10 @@ def test_register():
     """
     c = Client()
     response = c.post('/register/',
-                      {'username': 'newb', 'email': 'example@example.com',\
+                      {'username': 'newb', 'email': 'example@example.com', \
                            'pass1': 'pass', 'pass2': 'pass'})
-    assert response.status_code == 302,\
-        "User can't be registered %s" %(response.content)
+    assert response.status_code == 302, \
+        "User can't be registered %s" % (response.content)
 
 
 def test_registerWithBrokenProfile():
@@ -119,8 +119,21 @@ def test_registerWithBrokenProfile():
     TODO
     Test case checking possibility to register without any profile at all
     I didn't implement the profile completely yet, need more specs to do it
+    THE PROFILE ABOUT FIELD IS NOT REQUIERED, so there is no need to check
+    if everything will work if it's not passed to the view. e.g.
+    FOR NOW I AM CHECKING IF IT"S POSSIBLE TO LOGIN IF YOU DON'T HAVE
+    PROFILE
     """
-    pass
+    user = User.objects.create_user(username = 'peter',
+                                    password = 'yoyoyo',
+                                    email = 'example@ex.com')
+    c = Client()
+    response = c.post('/login/',
+                      {
+            'username': 'peter',
+            'password': 'yoyoyo'})
+    assert response.status_code == 302, \
+        "Was impossible to login with user with no profile"
 
 
 def test_logout():
@@ -145,7 +158,7 @@ def test_usernameContainsIncorrectCharacters():
 "We submitted user with wrong name"
 
 
-def test_alreadyTaken():
+def test_alreadyTakenUsername():
     """
     Checks if programm handles the situation when user tries
     to register with the username which is already in use by
