@@ -1,0 +1,20 @@
+{% extends "start_page.html" %}
+{% block title %} Please login here{% endblock %}
+
+{% block content %}
+<h2>Login page</h2>
+
+{% if form.errors %}
+<p> Username or password is incorrect, Please recheck  provided data. </p>
+{% endif %}
+
+<form method="POST" action=".">
+<p><label for="id_username">Username:</label>
+  {{ form.username }}</p>
+<p><label for="id_password">Password:</label>
+  {{ form.password }}</p>
+<input type="hidden" name="next" value="/">
+<input type="submit" value="login" />
+</form>
+<p><a href="/resend/">Forgot the password?</a></p>
+{% endblock %}
