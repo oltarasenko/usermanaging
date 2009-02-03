@@ -8,5 +8,4 @@ admin.autodiscover()
 
 urlpatterns = patterns('',
                        url(r'^', include('loginreg.urls')),
-                       
                        )

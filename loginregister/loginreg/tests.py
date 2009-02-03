@@ -170,3 +170,16 @@ def test_alreadyTakenUsername():
                            'pass1': 'pass', 'pass2': 'pass'})
     assert response.content.find("Username is already taken") != -1, \
         "IT became possible to create duplicated user accounts!"
+
+
+def test_registerPasswordsMatch():
+    """
+    Checks how the programm works in the case when
+    Passwords in the register form didn't match each other
+    """
+    c = Client()
+    response = c.post('/register/',
+                      {'username': 'oleg', 'email': 'example@example.com', \
+                           'pass1': 'pass1', 'pass2': 'pass2'})
+    assert response.content.find("Please retype password") != -1, \
+        "Password matching is broken"
